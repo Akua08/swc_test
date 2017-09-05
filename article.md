@@ -3,3 +3,5 @@
 ## Introduction
 ## Results
 ## Materials and methods
+## Discussion
+## References
